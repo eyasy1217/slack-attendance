@@ -2,5 +2,8 @@
   "dependencies": {
     "@slack/web-api": "^6.7.2",
     "japanese-holidays": "^1.0.10"
+  },
+  "scripts": {
+    "start": "node slack.js"
   }
 }
